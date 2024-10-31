@@ -10,4 +10,6 @@ Estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera, meu foco é
 <div style="display: inline_block"><br/>
 <img align="center "alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img align="center "alt="Flutter" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img align="center "alt="Flutter" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+ 
 </div>
